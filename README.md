@@ -217,9 +217,8 @@ is visually scannable on your GitHub profile without anyone needing to
 download the .pbix:
 
 ```markdown
-## Preview
-![Overview Page](screenshots/overview_page.png)
-![Regional Heatmap](screenshots/regional_heatmap.png)
+## Dashboard Preview
+![Business Performance Dashboard](screenshots/overview.png)
 ```
 
 ---
