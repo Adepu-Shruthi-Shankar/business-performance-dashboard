@@ -218,7 +218,9 @@ download the .pbix:
 
 ```markdown
 ## Dashboard Preview
-![Business Performance Dashboard](screenshots/overview_page.png)
+<img width="1502" height="1045" alt="overview_page" src="https://github.com/user-attachments/assets/ab54993c-d376-403c-acc0-5a64f99b688a" />
+
+
 ```
 
 ---
