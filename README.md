@@ -211,13 +211,14 @@ Add a **`.gitignore`** with:
 *.tmp
 Thumbs.db
 ```
-
+```markdown
 Finally, embed 2–3 of your screenshots directly in the README so the project
 is visually scannable on your GitHub profile without anyone needing to
 download the .pbix:
 
-```markdown
+
 ## Dashboard Preview
+
 ![Dashboard Preview](https://github.com/user-attachments/assets/ab54993c-d376-403c-acc0-5a64f99b688a)
 
 
